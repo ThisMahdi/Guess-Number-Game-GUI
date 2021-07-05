@@ -1,5 +1,5 @@
 # Guess Number Game GUI
-Guess The Number in GUI Application!! Wow ;) Remember [Guess Number Game](https://github.com/ThisMahdi/Guess-Number-Game) ? this one is GUI for windows users.
+Guess The Number in GUI Application!! Wow ;) Remember [Guess Number Game](https://github.com/ThisMahdi/Guess-Number-Game) ? this one is GUI for different operatings systems.
 
 ## Description
 You can play this game in 3 difficulty (Easy, Normal and Hard).
