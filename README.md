@@ -6,9 +6,8 @@ You can play this game in 3 difficulty (Easy, Normal and Hard).
 
 ## Screenshots
 
-![sc1](https://s19.picofile.com/file/8437674984/Guess_Number_Game_This_Mahdi.png)
-![sc2](https://s18.picofile.com/file/8437674992/Guess_Number_Game2_This_Mahdi.png)
-![sc3](https://s18.picofile.com/file/8437675018/Guess_Number_Game3_This_Mahdi.png)
+![sc1](https://s19.picofile.com/file/8437675618/Guess_Number_Game_By_This_Mahdi.jpg)
+
 
 ## Requirements :
 
